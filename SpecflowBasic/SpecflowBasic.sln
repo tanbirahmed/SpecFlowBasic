@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecflowBasic", "SpecflowBasic.csproj", "{5F505424-9303-4807-AE57-F7428E0D9F45}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecflowBasic", "SpecflowBasic.csproj", "{97381691-D089-48C5-BD23-A75EF56971EC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5F505424-9303-4807-AE57-F7428E0D9F45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5F505424-9303-4807-AE57-F7428E0D9F45}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5F505424-9303-4807-AE57-F7428E0D9F45}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5F505424-9303-4807-AE57-F7428E0D9F45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97381691-D089-48C5-BD23-A75EF56971EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97381691-D089-48C5-BD23-A75EF56971EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97381691-D089-48C5-BD23-A75EF56971EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97381691-D089-48C5-BD23-A75EF56971EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {F4D2520A-D488-4B18-86C4-4C2BB0D1DCC3}
+		SolutionGuid = {128CAD48-C97F-4A8D-A6E3-7C448620370F}
 	EndGlobalSection
 EndGlobal
